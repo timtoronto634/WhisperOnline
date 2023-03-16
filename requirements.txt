@@ -1,0 +1,16 @@
+aiohttp
+aiosignal
+async-timeout
+attrs
+certifi
+charset-normalizer
+frozenlist
+idna
+multidict
+openai
+PyAudio
+requests
+tqdm
+urllib3
+Wave
+yarl
